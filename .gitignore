@@ -1,0 +1,44 @@
+# Binaries and build output
+*.exe
+dist/
+build/
+__pycache__/
+*.pyc
+*.pyo
+
+# Local environment
+.env
+.env.*
+.venv/
+venv/
+
+# Machine-specific settings (commit settings.example.json instead)
+settings.json
+runtime/
+*.lnk
+
+# Captured content and recording metadata must stay private
+*.srt
+*.raw.jsonl
+*.session.json
+*.session.json.tmp
+*.capture.lock
+*.log
+LectureScripts/
+recordings/
+output/
+
+# Credentials and local archives
+*.pem
+*.key
+*.pfx
+*.p12
+*.zip
+*.7z
+*.bak
+
+# Editor / OS noise
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini

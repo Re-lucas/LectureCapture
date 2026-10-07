@@ -1,0 +1,7 @@
+comtypes==1.4.17
+typing_extensions==4.16.0
+uiautomation==2.0.29
+winrt-runtime==3.2.1
+winrt-Windows.Foundation==3.2.1
+winrt-Windows.Foundation.Collections==3.2.1
+winrt-Windows.Media.Control==3.2.1
